@@ -1,5 +1,4 @@
 # FMML_COURSE_ASIGNMENT
-
 Getting Started
 FMML Module 1, Lab 1
 Module Coordinator: Amit Pandey ( amit.pandey@research.iiit.ac.in )
@@ -490,4 +489,4 @@ array([[[  0,  87, 164],
         [ 31,  42,  44]]], dtype=uint8)
 #print the image 
 plt.imshow(plt.imread('/content/drive/MyDrive/sky image.jpeg'))
-<matplotlib.image.AxesImage at 0x7fe01f78da90> 
+<matplotlib.image.AxesImage at 0x7fe01f78da90>
